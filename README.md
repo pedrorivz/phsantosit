@@ -1,7 +1,7 @@
 ## Vida longa e próspera, meu nome é Pedro e me chamam de PH!
 <div align="center">
   <a href="https://github.com/phsantosit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phsantosit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phsantosit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img src="profile.png"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsantosit&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
