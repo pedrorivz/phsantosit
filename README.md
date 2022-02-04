@@ -8,6 +8,14 @@
   <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PH-AWS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+  <img align="center" alt="PH-ZSH" height="30" width="40" src="https://camo.githubusercontent.com/3ec75cb1c3278cce3c661d3bcf72a4eca75db241a6ace648ea014b02f3f44458/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67">
+</div>
+
+  ##
+
+<div>
+  <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
   ##
