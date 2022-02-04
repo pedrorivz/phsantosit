@@ -1,4 +1,5 @@
 ## Vida longa e próspera, meu nome é Pedro e me chamam de PH!
+Atualmente estudando Swift e faço alguns bots com NodeJS
 <div align="center">
   <a href="https://github.com/phsantosit">
   <h3>💪 Aqui um pouco dos meus stats, melhorando um dia de cada vez 💪</h3>
